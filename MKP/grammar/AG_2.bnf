@@ -1,0 +1,4 @@
+m=0
+---
+<start> ::=  <item> | <item>_<start>
+<item> ::= {finalize_item const X phenotype}

@@ -1,0 +1,7 @@
+div=0
+---
+<e> ::= <e> <op> <e>| (<e> <op> <e>) | <var>
+<op> ::= + | - | * | /
+<var> ::= <ind> | <const>
+<ind> ::= {finalize_division_int x[0] 1 phenotype}
+<const> ::= {finalize_division_const const 1 phenotype}

@@ -1,0 +1,1 @@
+<start> ::=  move_forward | turn_left | turn_right | if_food_ahead(<start>, <start>) | prog3(<start>, <start>, <start>) | prog2(<start>, <start>)

@@ -1,0 +1,4 @@
+div=0
+---
+<start> ::=  {finalize_direction const 1 phenotype}  | <loop>
+<loop> ::= if_food_ahead(<start>, <start>) | prog3(<start>, <start>, <start>) | prog2(<start>, <start>)

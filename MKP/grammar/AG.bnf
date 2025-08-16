@@ -1,0 +1,4 @@
+no=0
+---
+<start> ::=  <bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>_<bit>
+<bit>  ::= {finalize_choice const X phenotype}
