@@ -1,4 +1,4 @@
-# DAGE-Dynamically-Attributed-Grammatical-Evolution-
+# DAGE-Dynamically-Attributed-Grammatical-Evolution
 
 ## Overview
 
